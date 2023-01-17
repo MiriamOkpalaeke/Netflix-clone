@@ -59,13 +59,13 @@ body{
 }
 .content1 h1{
   font-weight: bolder;
-  font-size: 50px;
+  font-size: 3.125rem;
   line-height: 1.1;
 
 }
 .content1 h2{
   font-weight: normal;
-  font-size: 28px;
+  font-size: 1.75rem;
   padding-top: 3px;
 }
 .content1 h3{
@@ -91,7 +91,7 @@ body{
   text-decoration: none;
   margin-left: -3.5px;
   border-radius: 2px;
-  font-size: 26px;
+  font-size: 1.625rem;
   padding-top: 4.5px;
   padding-bottom: 18px;
   
@@ -126,7 +126,7 @@ h1{
   font-weight:600;
 }
 h2{
-  font-size: 26px;
+  font-size: 1.625rem;
   font-weight: normal;
 }
 .content2-image{
@@ -237,7 +237,7 @@ p{
   padding: 3px;
 }
 .accordian-link{
-font-size: 25px;
+font-size: 1.5625rem;
 color: white;
 text-decoration: none;
 background-color:rgb(48, 48, 48) ;
@@ -274,7 +274,7 @@ padding: 14px 10px;
   left: 0;
 }
 .answer p{
-  font-size: 25px;
+  font-size: 1.5625rem;
   font-weight: 400;
   padding: 10px;
 }
@@ -316,7 +316,7 @@ margin-top: 50px;
   padding-right: 60px;
 }
 .last p{
-  font-size: 14px;
+  font-size: .875rem;
   font-weight: 400;
   color:rgb(120, 119, 119) ;
   padding-left: 160px ;
@@ -443,7 +443,7 @@ h2 {
 video {
       position: absolute;
       top: -1px;
-      left: 90px;
+      left: 88px;
       width: 220px;
       height: 220px;
 }
@@ -508,7 +508,7 @@ p {
   font-weight: bold;
   padding-left: 5px;
   padding-right: 10px;
-  font-size: 12px;
+  font-size: .75rem;
 }
 
 .gif {
@@ -544,7 +544,7 @@ p {
   text-align: center;
   padding-top: 17px;
   padding-bottom: 17px;
-  font-size: 25px;
+  font-size: 1.5625rem;
     line-height: 1.1;
     font-weight: 600;
 }
@@ -561,7 +561,7 @@ p {
 }
 
 .answer p {
-  font-size: 12px;
+  font-size: .75rem;
   font-weight: 400;
   padding: 10px;
 }
@@ -575,7 +575,7 @@ p {
 
 .bottom-input h3 {
   font-weight: 400;
-  font-size: 18px;
+  font-size: 1.125rem;
   text-align: center;
 
 }
@@ -597,7 +597,7 @@ p {
 .last a {
   text-decoration: none;
   color: rgb(120, 119, 119);
-  font-size: 14px;
+  font-size: .875rem;
   line-height: 2.5;
 }
 
@@ -617,7 +617,7 @@ p {
 }
 
 .links ul li a {
- font-size: 12px;
+ font-size: 0.75rem;
 
 
 
