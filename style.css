@@ -139,14 +139,13 @@ h2{
   position: relative;
   top: 0;
   left: 0;
+  z-index: 2;
   
 }
 video{
-  width:350px;
-  height:200px;
   position: absolute;
-  top: 76px;
-  left: 120px;
+  top: 4.75rem;
+  left: 7.5rem;
   
 }
 .content3{
