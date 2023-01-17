@@ -443,7 +443,7 @@ h2 {
 video {
       position: absolute;
       top: -1px;
-      left: 92px;
+      left: 90px;
       width: 220px;
       height: 220px;
 }
@@ -603,21 +603,31 @@ p {
 
 .links {
   display: flex;
-  margin-left: -10px;
-  max-width: 1000px;
+  margin-left: -15px;
+  width: 90%;
+  
+ 
   
 }
 
 .link1 {
   margin-left: 25px;
+ 
+  
 }
 
 .links ul li a {
- font-size: 13px;
+ font-size: 12px;
+
+
+
+
 
 }
 .links ul{
-  padding-right: 2px;
+padding-right: 0px;
+ 
+
 }
 
 .last p {
